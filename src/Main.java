@@ -10,8 +10,10 @@ public class Main {
         bh.add(70);
         bh.add(3);
         int x = bh.top();
-        bh.pop(2);
+        bh.pop(9);
         int y = bh.top();
+
+        
 
     }
 }
